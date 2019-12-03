@@ -1,0 +1,31 @@
+Here are some of the bugs and known issues of the mod. Look at this if you want to report a bug, to see if it's not already listed.
+
+
+
+	1) The Last Breath, the Apparition's Aspect and some other hats don't work with "no_hats_bgum", no idea why, so they are always shown.
+	(you can hide them by installing "no_bugged_misc", but sometimes they will appear anyway.)
+
+
+	2) Some cosmetics make the bodygroup appear red even if the player is in the blue team. E.g. Medic Mech-bag, Soldier's Slope Scopers.
+
+
+	3) When using "no_hats_orig", an OUTDATED version of the mod, a lot of characters will have missing bodyparts. E.g. Soldier's hat,
+	Pyro's head, Scout's cap, etc. "no_hats_bgum" fixes this problem.
+
+
+	4) The Voodoo cursed souls cosmetics are not changed with this mod. Technically these are not hats, but entirely different models 
+	overlapping the default ones (Whom their texture change). In short: there's no way to hide them, sadly.
+
+
+	5) If you have the "no_skins" mod installed, weapons will load indefinitely. Move all of your "skinned" items at the end of your
+	backpack. (This mod is really buggy, use it only if you despiiiiise weapon skins)
+
+
+
+BEFORE REPORTING A HAT/COSMETIC, I would like if you could verify if it is not already in the bug list on this steam page:
+https://steamcommunity.com/groups/nohatsmod/discussions/0/1639801448920101607/
+
+
+Thanks in advance
+
+:D
