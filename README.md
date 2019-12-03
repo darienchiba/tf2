@@ -10,6 +10,6 @@
 
 ## I3WM and Fullscreen
 
-**** playing a game in fullscreen, through i3, and then changing workspaces makes the game "minimize"*
+* playing a game in fullscreen, through i3, and then changing workspaces makes the game "minimize"*
 
  I've found running games in fullscreen and then pressing Win + F (i3's fullscreen toggle) fixed that issue.
