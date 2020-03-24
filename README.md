@@ -1,4 +1,4 @@
-## WARNING: 2019 Settings - I'dont use this anymore but still perfectly update
+## WARNING: 2019 Settings - I'dont use this anymore but still update-to-date
 
 ## Startup options
 
